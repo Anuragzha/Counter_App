@@ -4,13 +4,18 @@ This creative counter app updates the emoji according to the value, increases th
 
 ##  Screenshots
 
-| First Page | Second Page |
-|-------------|-------------|
-| ![image](    Assignment Screenshot/Screenshot 2025-11-15 215456.png) | ![Image](assets/Screenshot/2.png) |
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![1](assets/1.png) | ![2](assets/2.png) |
 
-| Third Page | Fourth |
-|------------|---------------------|
-| ![image](assets/Screenshot/3.png) | ![Image](assets/Screenshot/4.png) |
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![3](assets/3.png) | ![4](assets/4.png) |
+
+| Screenshot 5 | — |
+|--------------|---|
+| ![5](assets/5.png) | |
+
 
 ---
 
