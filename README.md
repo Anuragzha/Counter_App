@@ -1,6 +1,20 @@
 # counter_app
 
 This creative counter app updates the emoji according to the value, increases the counter, and randomly changes the background color using setState() to instantly refresh the user interface.  For clarity, this project is divided into several files, and each button click demonstrates how Flutter recreates the interface in an easy and entertaining.
+
+##  Screenshots
+
+| First Page | Second Page |
+|-------------|-------------|
+| ![image](    Assignment Screenshot/Screenshot 2025-11-15 215456.png) | ![Image](assets/Screenshot/2.png) |
+
+| Third Page | Fourth |
+|------------|---------------------|
+| ![image](assets/Screenshot/3.png) | ![Image](assets/Screenshot/4.png) |
+
+---
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
